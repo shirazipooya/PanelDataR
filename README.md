@@ -3,7 +3,7 @@
 Based on the [Getting Started in Fixed/Random Effects Models Using R](https://dss.princeton.edu/training/Panel101R.pdf), Oscar Torres-Reyna, Princeton University.
 
 ## Author
-Pooya Shirazi
+Pooya Shirazi, PhD Student at the Ferdowsi University of Mashhad, Mashhad, Iran.
 
 ## Additional Info
 * PDF Explanation:
